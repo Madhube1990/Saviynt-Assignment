@@ -3,7 +3,7 @@ pipeline{
 	stages{
 	    stage("Git Checkout"){
 		steps{
-			git url:'https://github.com/Madhube1990/world-hello.git'
+			git url:'https://github.com/Madhube1990/Hello-world.git'
 		     }
 		}
 
